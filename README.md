@@ -9,3 +9,8 @@
 <h2>iniciando em:</h2>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  alt="imagem do logo javascript" width="80px"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="imagem do logo react" width="50px">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliobispo82)](https://github.com/anuraghazra/github-readme-stats )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliobispo82)](https://github.com/anuraghazra/github-readme-stats)
+
