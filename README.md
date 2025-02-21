@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Sou Helio Bispo estudante de programação FRONT-END pelo Devclub.</h1>
+<h1>Sou Helio Bispo programador full stack pelo Devclub; Aprendendo e criando projetos em, HTML -> CSS -> JAVASCRIPT </h1>
 <br>
 <h2>Modulos concluidos:</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="imagem do logo html" width="50px"/>
